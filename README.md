@@ -13,6 +13,7 @@ A simple Windows Forms desktop application for managing customers and their orde
 
 - [.NET 10 SDK](https://dotnet.microsoft.com/download)
 - SQL Server (local instance, e.g. SQL Server Express)
+- Visual Studio 2026
 
 ## Database setup
 
